@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cv-repo/static/css/main.f1dfb855.chunk.css",
+    "main.js": "/cv-repo/static/js/main.2a9f35e2.chunk.js",
+    "main.js.map": "/cv-repo/static/js/main.2a9f35e2.chunk.js.map",
+    "runtime-main.js": "/cv-repo/static/js/runtime-main.654d56fe.js",
+    "runtime-main.js.map": "/cv-repo/static/js/runtime-main.654d56fe.js.map",
+    "static/css/2.d88a60dc.chunk.css": "/cv-repo/static/css/2.d88a60dc.chunk.css",
+    "static/js/2.7659ed11.chunk.js": "/cv-repo/static/js/2.7659ed11.chunk.js",
+    "static/js/2.7659ed11.chunk.js.map": "/cv-repo/static/js/2.7659ed11.chunk.js.map",
+    "index.html": "/cv-repo/index.html",
+    "precache-manifest.66aaad6d94153005c98a41c510c1b005.js": "/cv-repo/precache-manifest.66aaad6d94153005c98a41c510c1b005.js",
+    "service-worker.js": "/cv-repo/service-worker.js",
+    "static/css/2.d88a60dc.chunk.css.map": "/cv-repo/static/css/2.d88a60dc.chunk.css.map",
+    "static/css/main.f1dfb855.chunk.css.map": "/cv-repo/static/css/main.f1dfb855.chunk.css.map",
+    "static/js/2.7659ed11.chunk.js.LICENSE.txt": "/cv-repo/static/js/2.7659ed11.chunk.js.LICENSE.txt",
+    "static/media/CSessentials.pdf": "/cv-repo/static/media/CSessentials.79c8c45f.pdf",
+    "static/media/NDGLinux.pdf": "/cv-repo/static/media/NDGLinux.78401eca.pdf",
+    "static/media/Person1.jpg": "/cv-repo/static/media/Person1.78a04fb9.jpg",
+    "static/media/introCS.pdf": "/cv-repo/static/media/introCS.0d0c2fb6.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.654d56fe.js",
+    "static/css/2.d88a60dc.chunk.css",
+    "static/js/2.7659ed11.chunk.js",
+    "static/css/main.f1dfb855.chunk.css",
+    "static/js/main.2a9f35e2.chunk.js"
+  ]
+}
